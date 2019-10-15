@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Lawrence Stacey
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Sociology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Sociology
+    institution: Ohio State University
+    year: 2024
+  - course: MS, Sociology
+    institution: Florida State University
+    year: 2018
+  - course: BS, Neuroscience and BA, Women's, Gender, and Sexuality Studies
+    institution: Ohio State University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
