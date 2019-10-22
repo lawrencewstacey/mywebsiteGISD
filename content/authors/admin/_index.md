@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Lawrence Stacey is a PhD student in sociology at Ohio State University. His research interests include how gender and sexuality norms are reproduced and resisted via parenting practices, with particular attention paid to differences between biological and stepparents in children's gender socialization. He also is interested in the health of gender and sexual minorities, and the dating and hookup experiences of queer men on popular dating applications.
